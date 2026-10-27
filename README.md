@@ -2,6 +2,9 @@
 
 **Upload to the UGREEN Hackathon 2026 on AI NAS - Track: Bring Memories to Life**
 
+**Repository:** https://github.com/bgrubbs1/ugreen-story-reel (MIT)
+
+
 Story Reel is a Markdown-only Uliya Skill that turns a chosen period, event, people or place in a
 family's own UGREEN AI NAS photo library into a chaptered, narrated memory album. It gathers only
 minimal user intent, delegates photo discovery, clustering and caption evidence to the photo expert,

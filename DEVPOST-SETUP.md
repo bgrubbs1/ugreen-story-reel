@@ -5,6 +5,7 @@ in this file is done by the entrant in the browser. This file only removes ambig
 time-boxed checklist.
 
 - Hackathon page: https://ugreenhackathon.devpost.com/
+- Repository (optional field): https://github.com/bgrubbs1/ugreen-story-reel (MIT)
 - Manage submissions page: https://devpost.com/submit-to/31552-ugreen-hackathon-2026-on-ai-nas/manage/submissions
 - Round 1 deadline: **2026-11-15 11:45 pm PT = 2026-11-16 02:45 ET**. Hard stop.
 
