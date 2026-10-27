@@ -1,0 +1,387 @@
+UGREEN Hackathon 2026 on AI NAS: Bring Your Skills to UGOS - Devpost
+We've detected that you are using an unsupported browser.  Please
+upgrade your browser
+to Internet Explorer 10 or higher.
+Log in
+Sign up
+Join a hackathon
+Devpost
+Participate in our public hackathons
+Hackathons
+Projects
+Devpost for Teams
+Access your company's private hackathons
+Login
+Host a hackathon
+Devpost
+Grow your developer ecosystem and promote your platform
+Host a public hackathon
+Devpost for Teams
+Drive innovation, collaboration, and retention within your organization
+Host an internal hackathon
+By use case
+AI hackathons
+Customer hackathons
+Employee hackathons
+Public hackathons
+Resources
+Blog
+Insights into hackathon planning and participation
+Customer stories
+Inspiration from peers and other industry leaders
+Planning guides
+Best practices for planning online and in-person hackathons
+Webinars & events
+Upcoming events and on-demand recordings
+Help desk
+Common questions and support documentation
+Join a hackathon
+Devpost
+Participate in our public hackathons
+Hackathons
+Projects
+Devpost for Teams
+Access your company's private hackathons
+Login
+Host a hackathon
+Devpost
+Grow your developer ecosystem and promote your platform
+Host a public hackathon
+Devpost for Teams
+Drive innovation, collaboration, and retention within your organization
+Host an internal hackathon
+By use case
+AI hackathons
+Customer hackathons
+Employee hackathons
+Public hackathons
+Resources
+Blog
+Insights into hackathon planning and participation
+Customer stories
+Inspiration from peers and other industry leaders
+Planning guides
+Best practices for planning online and in-person hackathons
+Webinars & events
+Upcoming events and on-demand recordings
+Help desk
+Common questions and support documentation
+Log in
+Sign up
+UGREEN Hackathon 2026 on AI NAS
+Deadline: Nov 15, 2026 @ 11:45pm PST
+Join hackathon
+Descend
+Overview
+My projects
+Participants (566)
+Resources
+Rules
+Project gallery
+Updates
+Discussions
+UGREEN Hackathon 2026 on AI NAS
+Bring Your Skills to UGOS
+Join hackathon
+Who can participate
+Above legal age of majority in country of residence
+Companies/professional organizations excluded from participation
+Specific
+countries/territories excluded
+&#215;
+Specific countries/territories excluded
+Afghanistan
+Andorra
+Angola
+Antigua And Barbuda
+Bahamas
+Bangladesh
+Barbados
+Belarus
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei Darussalam
+Burundi
+Cameroon
+Cape Verde
+Central African Republic
+Chad
+China
+Comoros
+Congo
+Congo the Democratic Republic of the
+Cuba
+Cyprus
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Equatorial Guinea
+Eritrea
+Ethiopia
+Fiji
+Gabon
+Gambia
+Ghana
+Grenada
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Holy See (Vatican City State)
+India
+Iran Islamic Republic of
+Iraq
+Jamaica
+Kazakhstan
+Kiribati
+Korea Democratic People's Republic of
+Kosovo
+Kyrgyzstan
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Luxembourg
+Macedonia The Former Yugoslav Republic Of
+Madagascar
+Malawi
+Mali
+Marshall Islands
+Mauritania
+Micronesia Federated States of
+Monaco
+Montenegro
+Myanmar
+Namibia
+Nauru
+Nicaragua
+Niger
+Palau
+Palestine State of
+Panama
+Papua New Guinea
+Quebec
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Seychelles
+Sierra Leone
+Solomon Islands
+Somalia
+Sudan
+Suriname
+Swaziland
+Syrian Arab Republic
+Tajikistan
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Zambia
+Zimbabwe
+No countries/territories match your search.
+View full rules
+November 16 at 2:45am EST
+to deadline
+View schedule
+Deadline: Nov 15, 2026 @ 11:45pm PST
+Apple
+Google
+Outlook
+Online
+Public
+$
+46,000
+in cash
+566
+participants
+UGREEN
+Lifehacks
+Machine Learning/AI
+Productivity
+UGREEN is opening AI NAS to developers through
+UGOS and Skills Hub
+.
+Powered by UGOS
+, UGREEN's own Linux-based operating system, UGREEN AI NAS brings local storage, computing, and AI capabilities together in one platform. UGOS makes it easy to keep your data secure, find and organize your files, and get more done with AI.
+With the UGOS Skill Creation Tool and your preferred AI assistant,
+you can create custom Skills that use supported NAS capabilities to organize files, find information, and automate everyday tasks. UGREEN Skills Hub gives developers the freedom to explore new ideas, create innovative tools, and expand what AI NAS can do.
+You bring the ideas. We'll help you build them.
+Access developer resources and technical support, with opportunities to win prizes, gain exposure through UGREEN, and explore future collaborations.
+No UGREEN NAS is required to enter.
+Finalists will receive free access to a
+UGREEN AI NAS iDX6011 Pro
+environment for final development, testing, and validation.
+The Hackathon has two rounds:
+Round 1 (open to all):
+Share your idea and an early build of your Skill. You do not need a NAS to enter. Download the UGREEN Skill Developer Package. Then submit a short PDF and a Pre-test Skill Package (ZIP).
+Round 2 (Finalists only):
+UGREEN will select up to 30 Finalists. Each Finalist gets  one assigned testing day of free remote access to a real UGREEN AI NAS to install, test, and polish their Skill. Finalists then submit their final Skill and a short demo video to compete for $46,000 in cash prizes!
+Get Started:
+🧠 Get to know
+UGREEN AI NAS
+.
+Learn what it can do.
+💬 Join the
+UGREEN Community
+.
+📦 Download the
+UGREEN Skill Developer Package
+. It has the tools and technical docs you need. You must use this package to build your Skill.
+🛠️
+Brush up on helpful skills
+. Python or JavaScript/TypeScript, Linux and Docker, AI agent and tool design, and file or media processing are all useful here.
+Why Participate
+💰 Compete for $46,000 in cash prizes. Five winners will share the prize pool, including two Most Creative awards.
+🚀
+No NAS needed to start. Round 1 is open to everyone. You only need your idea, the Skill Developer Package, and your code
+.
+🖥️
+Test on real hardware for free. Each Finalist gets one assigned testing day  of free remote access to a UGREEN AI NAS iDX6011 Pro.
+🎨
+Build what you care about. Choose from four tracks: work automation, personal memories, creative media, or your own original idea.
+🤝
+Connect with the UGREEN team. Access developer resources and technical support, with opportunities to win prizes, gain exposure through UGREEN, and explore future collaborations
+.
+Requirements
+What to Build
+Build an AI Skill that runs on UGREEN AI NAS. Use the UGREEN Skill Developer Package and its technical docs to build it. Choose one track that best fits your Skill:
+Automate Your Workflow:
+Build an AI Skill that uses authorized NAS files and data, together with the file, document, knowledge, and system capabilities provided for the Hackathon, to organize content, extract information, generate summaries, and streamline repetitive tasks
+.
+Bring Memories to Life:
+Build an AI Skill that works with authorized photos, videos, and documents stored on UGREEN AI NAS to organize or search content, extract text, generate summaries, or create albums.
+Unleash Your Creativity:
+Build an AI Skill that helps photographers, editors, designers, and other content creators search, tag, select, organize, and review media stored on UGREEN AI NAS, making creative preparation faster and more efficient.
+Open Innovation:
+Go beyond the tracks above by combining the NAS, AI, media, file, and knowledge capabilities provided for the challenge to build an original AI Skill that addresses a real user need and runs on UGREEN AI NAS.
+What to Submit: Round 1
+You do not need a NAS for Round 1. You also do not need a code repo link or a demo video. Submit these items on the Hackathon Website by Sunday, November 15, 2026 at 11:45 pm PT:
+1. Project Proposal (PDF) .
+Submit the Project Proposal as a separate PDF file no larger than 1 MB. The proposal must address the following ten items in no more than 500 English words in total
+:
+What does your Skill do? (one sentence)
+Who is your target user, and what is their problem?
+What is your solution?
+What is the main user flow?
+How is your idea different from existing tools or common AI solutions?
+Which UGREEN AI NAS features does your Skill use, and at which step?
+What is your technical approach? (Describe the planned Skill workflow, supported NAS CLI capabilities, expert agent orchestration, required inputs, permissions, AI model choices, and data handling, as applicable)
+What have you built so far? What is not built yet? What still needs testing on a NAS?
+How will you test your Skill if you become a Finalist? Name two core test cases and one edge case.
+What are the known limits, risks, or outside dependencies of your Skill?
+Any third-party components must be identified, including their sources and applicable licenses.
+The ten substantive responses must not exceed 500 English words in total. Team consent declarations, member names, electronic signatures, and third-party license information are excluded from this word limit.
+2. Pre-test Skill Package (ZIP).
+Submit one ZIP file following the official Uliya Skill Development Standard:
+SKILL.md (required):
+Describe the user goal, required inputs, supported CLI capabilities, expert agent orchestration workflow, and completion/failure handling. Include frontmatter with name (lowercase, hyphenated, 2–64 characters) and description (maximum 1,024 characters).
+References (optional):
+Supporting Markdown files, each directly linked from SKILL.md.
+In SKILL.md or its linked references, disclose third-party components and open source libraries, their sources and licenses, the principal functionality developed for this Hackathon, and AI tools used and their principal uses.
+The ZIP file and uncompressed package must each be no larger than 10 MB, with a maximum of 1 MB per file and 100 files. Separate manifests, scripts, executables, binaries, and other unsupported files are prohibited. Use placeholders for configuration examples; do not include real credentials, personal data, or API keys.
+The package need not be fully installable or operational on UGREEN AI NAS in Round 1. Local test results are optional.
+You may build on an idea conceived before the Hackathon, but your submitted Skill and its core workflow must be newly developed during the Hackathon. Do not reuse previously developed Skills or submission materials.
+Round 1 does not require a separate code repository link, or a demo link/video
+What to Submit: Round 2 (Finalists only)
+UGREEN will invite up to 30 Finalists to Round 2 by email on November 21. Each Finalist gets a private submission link and one assigned day of remote access to a UGREEN AI NAS, between November 22 and November 28. For teams, UGREEN sends the login details to the team Representative only.
+Submit these items through your private link by
+Monday, November 30, 2026 at 11:45 pm PT:
+Final Skill Package.
+Submit the final version of the same Skill entered in Round 1 as one ZIP file. Follow the same Uliya Skill Development Standard, file structure, technical limits, and disclosure requirements specified for Round 1. The Skill must operate on your assigned UGREEN AI NAS.
+Demo video.
+Provide a link to a public YouTube video of no more than 3 minutes, using English narration or complete English subtitles. Record the Skill operating on your assigned UGREEN AI NAS during your assigned testing day, and show its core workflow, key capabilities, and actual results.
+Do not delete your Round 1 materials.
+Hackathon Sponsors
+Prizes
+$
+46,000
+in prizes
+Grand Prize
+$
+20,000
+in cash
+1 winner
+Second Place
+$
+10,000
+in cash
+1 winner
+Third Place
+$
+6,000
+in cash
+1 winner
+Most Creative
+$
+5,000
+in cash
+2 winners
+Based on the highest scores for the Innovation & Differentiation Judging Criterion.
+Devpost Achievements
+Submitting to this hackathon could earn you:
+Judges
+A panel of qualified judges
+Judging Criteria
+User Value
+Does the Skill solve a clear user problem? Does it give users a clear workflow, useful feedback, and a real result?
+Innovation & Differentiation
+Does the Skill offer a new function, interaction, or workflow that is different from common AI tools and existing solutions?
+Technical Quality
+Do the core and repeat-use cases work? Does the Skill handle errors and edge cases? Does it manage data, permissions, credentials, outside services, and versions well? Do the docs and dependencies support install, setup, removal, and testing?
+AI NAS Fit & Validation
+Do UGREEN AI NAS features add real value to the Skill? Does the Skill use NAS resources well?
+Questions?
+Email the hackathon manager
+Invite others to compete
+This site is protected by reCAPTCHA and the Google
+Privacy Policy
+and
+Terms of Service
+apply.
+Devpost
+About
+Careers
+Contact
+Help
+Hackathons
+Browse hackathons
+Explore projects
+Host a hackathon
+Hackathon guides
+Portfolio
+Your projects
+Your hackathons
+Settings
+Connect
+Twitter
+Discord
+Facebook
+LinkedIn
+&#169; 2026 Devpost, Inc. All rights reserved.
+Community guidelines
+Security
+CA notice
+Privacy policy
+Terms of service

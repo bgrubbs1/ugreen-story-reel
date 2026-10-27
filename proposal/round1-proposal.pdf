@@ -1,0 +1,625 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 4982 >>
+stream
+BT
+0.100 0.220 0.360 rg
+/F2 17.50 Tf
+1 0 0 1 72.00 710.50 Tm
+(Story Reel: Chaptered Memory Albums from a Family) Tj
+ET
+BT
+0.100 0.220 0.360 rg
+/F2 17.50 Tf
+1 0 0 1 72.00 688.80 Tm
+(NAS Photo Library) Tj
+ET
+BT
+0.380 0.380 0.420 rg
+/F1 9.60 Tf
+1 0 0 1 72.00 670.00 Tm
+(UGREEN Hackathon 2026 on AI NAS | Track: Bring Memories to Life | Round 1 Project Proposal) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 656.60 Tm
+(Individual entry | Prepared 2026-10-27 | Deadline 2026-11-15 11:45 pm PT) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 640.60 Tm
+(Word-count note \(excluded from the limit\): the ten substantive answers below total 487 English) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 626.10 Tm
+(words, within the 500-word limit. The third-party, licensing, team and AI-drafting section at the end is) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 611.60 Tm
+(excluded from that limit under the official rules.) Tj
+ET
+BT
+0.100 0.220 0.360 rg
+/F2 12.50 Tf
+1 0 0 1 72.00 579.60 Tm
+(The ten substantive answers) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F2 10.80 Tf
+1 0 0 1 72.00 547.80 Tm
+(1. What does the Skill do?) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 529.71 Tm
+(Story Reel turns a chosen period, event, people, or place in a family's NAS photo library into a) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 515.21 Tm
+(chaptered, narrated memory album the user approves before anything is created.) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F2 10.80 Tf
+1 0 0 1 72.00 489.91 Tm
+(2. Who is the target user and problem?) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 471.82 Tm
+(Families with years of unsorted photos on a UGREEN AI NAS. They can find single files, but turning) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 457.32 Tm
+(a period like a child's summer into a shareable story means hours of manual browsing, selecting,) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 442.82 Tm
+(and caption writing. Galleries show files, not memories.) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F2 10.80 Tf
+1 0 0 1 72.00 417.52 Tm
+(3. What is the proposed solution?) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 399.42 Tm
+(Story Reel collects a small scope: a date range or event, optional people, place, tone, and output) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 384.92 Tm
+(\(album, document, or both\). It delegates photo discovery, drafts two to five evidence-grounded) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 370.42 Tm
+(chapters with the document expert, presents it, then after approval creates the album and saves the) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 355.92 Tm
+(story.) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F2 10.80 Tf
+1 0 0 1 72.00 330.62 Tm
+(4. What is the core user flow?) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 312.53 Tm
+(The user names the scope and output. Story Reel delegates photo discovery and clustering, then a) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 298.03 Tm
+(factual chaptered narrative. It presents chapters, highlights, photo counts, and destinations, and) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 283.53 Tm
+(waits for approval. On approval it creates the album and saves the story, then reports the real album) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 269.03 Tm
+(and document.) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F2 10.80 Tf
+1 0 0 1 72.00 243.73 Tm
+(5. What substantive difference does this offer?) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 225.64 Tm
+(Gallery search returns files; cloud album tools ship private photos to external models and often) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 211.14 Tm
+(invent captions. Story Reel is evidence-grounded and approval-gated: every chapter traces to real) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 196.64 Tm
+(timestamps, locations, captions, OCR, or vision results from the user's own NAS, and AI processing) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 182.14 Tm
+(stays on the NAS local model.) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F2 10.80 Tf
+1 0 0 1 72.00 156.84 Tm
+(6. Which UGREEN AI NAS capabilities are used, and at which step?) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 138.75 Tm
+(Step 1 uses ug-photo search-picture, search-classify, search-hint, meta, vision-ocr, and vision-vlm to) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 124.25 Tm
+(find and cluster real photos. Step 2 uses ug-document writing for chapters. Step 4 uses ug-photo) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 109.75 Tm
+(create-album or create-album-condition. Step 5 uses ug-knowledge save-text. State changes run) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 95.25 Tm
+(behind gateway and workflow approval.) Tj
+ET
+0.55 0.55 0.58 rg
+BT
+/F1 8.5 Tf
+1 0 0 1 72.00 34 Tm
+(Story Reel | Round 1 Project Proposal | page 1 of 3) Tj
+ET
+
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 5098 >>
+stream
+BT
+0.090 0.090 0.120 rg
+/F2 10.80 Tf
+1 0 0 1 72.00 710.20 Tm
+(7. What is the technical approach?) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 692.11 Tm
+(Markdown-only orchestration delegates to photo-agent, document-agent, and knowledge-agent with) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 677.61 Tm
+(delegate commands; the parent never calls cli.invoke. Inputs: scope, people, place, tone, output) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 663.11 Tm
+(choice. Read-only steps gather evidence; state changes require approval. AI choices: the NAS local) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 648.61 Tm
+(AI model via platform writing, OCR, and vision actions, with no external data flow. Photos stay on the) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 634.11 Tm
+(NAS; the story saves only where approved.) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F2 10.80 Tf
+1 0 0 1 72.00 608.81 Tm
+(8. What is the current development status?) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 590.72 Tm
+(Implemented: complete SKILL.md orchestration, catalog capability mapping, evidence and) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 576.22 Tm
+(anti-invention rules, approval gate, state handling, and disclosures; the package passes the official) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 561.72 Tm
+(checker with zero errors and warnings. Not implemented: live end-to-end expert runtime. Pending) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 547.22 Tm
+(NAS validation: Action and permission behavior, approval round trips, and empty or partial results on) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 532.72 Tm
+(real data.) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F2 10.80 Tf
+1 0 0 1 72.00 507.42 Tm
+(9. What is the final validation plan?) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 489.32 Tm
+(Core case 1: a large family library, scope summer 2024; expect three to five chapters from real) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 474.82 Tm
+(timestamps and places, an approved album, and a verified story document. Core case 2: Kyoto trip;) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 460.32 Tm
+(expect place clustering, warm tone, and both outputs. Edge case: no matching photos or missing) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 445.82 Tm
+(timestamps; expect a clear empty or partial result, no invented content, and nothing created.) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F2 10.80 Tf
+1 0 0 1 72.00 420.52 Tm
+(10. What are the known limitations, risks, and dependencies?) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 402.43 Tm
+(Limitations: story quality depends on library metadata and AI indexes, and the parent Skill cannot) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 387.93 Tm
+(see private CLI parameters. Risks: expert runtime behavior, approval latency, firmware Action) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 373.43 Tm
+(availability, and large-library timeouts. Dependencies: the assigned UGREEN AI NAS iDX6011 Pro,) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 358.93 Tm
+(the registered experts, and the NAS local AI model. No external services are required.) Tj
+ET
+BT
+0.100 0.220 0.360 rg
+/F2 12.50 Tf
+1 0 0 1 72.00 326.93 Tm
+(Third-party components, licensing, team information, and AI drafting disclosure) Tj
+ET
+BT
+0.100 0.220 0.360 rg
+/F2 12.50 Tf
+1 0 0 1 72.00 311.43 Tm
+(\(excluded from the 500-word limit\)) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 288.93 Tm
+(Per the official rules, team consent declarations, member names, electronic signatures, and) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 274.43 Tm
+(third-party license information are excluded from the ten-answer word limit. This section is also) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 259.93 Tm
+(excluded from that limit.) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F2 10.80 Tf
+1 0 0 1 72.00 234.63 Tm
+(Team and consent) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 216.54 Tm
+(Individual entry. No team members and no consent declarations apply. The entrant is the sole author) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 202.04 Tm
+(and director of this submission.) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F2 10.80 Tf
+1 0 0 1 72.00 176.74 Tm
+(Third-party components and platform capabilities) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 158.65 Tm
+(-) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 86.00 158.65 Tm
+(Official UGOS Skill Creation Tool / Uliya Skill Kit \(uliya-skill-kit\), obtained from the UGREEN) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 86.00 144.15 Tm
+(Hackathon Starter Kit: https://ai.ugreen.com/pages/hackathon-starter-kit. Used only as the) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 86.00 129.65 Tm
+(authoring and static-validation tool. Not redistributed in the submitted ZIP.) Tj
+ET
+0.55 0.55 0.58 rg
+BT
+/F1 8.5 Tf
+1 0 0 1 72.00 34 Tm
+(Story Reel | Round 1 Project Proposal | page 2 of 3) Tj
+ET
+
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 2894 >>
+stream
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 717.50 Tm
+(-) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 86.00 717.50 Tm
+(UGOS platform CLI capabilities used through the registered experts: ug-photo \(search-picture,) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 86.00 703.00 Tm
+(search-classify, search-hint, meta, vision-ocr, vision-vlm, create-album, create-album-condition\),) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 86.00 688.50 Tm
+(ug-document \(writing\), and ug-knowledge \(save-text\). These are UGREEN platform capabilities,) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 86.00 674.00 Tm
+(not third-party libraries.) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 659.50 Tm
+(-) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 86.00 659.50 Tm
+(No open-source libraries, SDKs, APIs, model weights, training datasets, or third-party data are) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 86.00 645.00 Tm
+(included in this project. AI processing is designed to use the NAS local AI model only. No external) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 86.00 630.50 Tm
+(services or data flows are required.) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F2 10.80 Tf
+1 0 0 1 72.00 606.70 Tm
+(AI tools used and principal uses) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 588.61 Tm
+(An AI coding assistant was used as a drafting and review tool: to structure and edit the Markdown) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 574.11 Tm
+(Skill specification, to check it against the official format, and to prepare this proposal and the) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 559.61 Tm
+(documentation. Principal uses were drafting, consistency review, and static checking. The entrant) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 545.11 Tm
+(directs the work, reviews every statement, decides the product behavior, and owns the submission.) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 530.61 Tm
+(Consistent with the rules, the entrant remains the author and director of the Project; AI is used as a) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 516.11 Tm
+(drafting tool only, and no person outside the team developed the Project or created its submission) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 501.61 Tm
+(materials.) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F2 10.80 Tf
+1 0 0 1 72.00 476.31 Tm
+(Licensing) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 458.22 Tm
+(The original text of this Project is released under the MIT License. Platform names, CLI names, and) Tj
+ET
+BT
+0.090 0.090 0.120 rg
+/F1 10.50 Tf
+1 0 0 1 72.00 443.72 Tm
+(Action names belong to UGREEN and are used only to describe the supported platform capabilities.) Tj
+ET
+0.55 0.55 0.58 rg
+BT
+/F1 8.5 Tf
+1 0 0 1 72.00 34 Tm
+(Story Reel | Round 1 Project Proposal | page 3 of 3) Tj
+ET
+
+endstream
+endobj
+12 0 obj
+<< /Title (Story Reel - Round 1 Project Proposal) /Subject (UGREEN Hackathon 2026 on AI NAS - Bring Memories to Life) /Creator (scripts/make_proposal_pdf.py) >>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000134 00000 n 
+0000000231 00000 n 
+0000000333 00000 n 
+0000000438 00000 n 
+0000000584 00000 n 
+0000005618 00000 n 
+0000005764 00000 n 
+0000010914 00000 n 
+0000011062 00000 n 
+0000014009 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R /Info 12 0 R >>
+startxref
+14186
+%%EOF

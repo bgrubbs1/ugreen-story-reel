@@ -1,0 +1,18 @@
+# Local-only: the downloaded official Uliya Skill Kit (do not redistribute it).
+tooling/
+
+# Local build / verification scratch space (staged skill, unpacked ZIP, renders).
+build/
+
+# Python / Node / OS scratch.
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Raw fetched HTML caches; the extracted text evidence stays committed.
+research/*.html
+
+# NOTE: pre-test-skill-package.zip is intentionally NOT ignored - the Round 1
+# upload artifact is committed so it can be reviewed and re-uploaded as-is.
